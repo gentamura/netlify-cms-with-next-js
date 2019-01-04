@@ -7,12 +7,14 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "export": "yarn build && next export",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "netlify-cms": "^2.3.2",
     "next": "^7.0.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
