@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "netlify-cms": "^2.3.2",
-    "next": "^7.0.2",
+    "next": "^9.3.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
