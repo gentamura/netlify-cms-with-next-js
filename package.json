@@ -7,15 +7,15 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "yarn build && next export",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "export": "npm run build && next export"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
+    "frontmatter-markdown-loader": "^3.6.0",
     "netlify-cms": "^2.3.2",
-    "next": "^7.0.2",
+    "next": "^9.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
