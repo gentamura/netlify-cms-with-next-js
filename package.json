@@ -14,9 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "frontmatter-markdown-loader": "^3.6.0",
-    "netlify-cms": "^2.3.2",
-    "next": "^9.0.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "netlify-cms": "^2.10.0",
+    "next": "^10.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   }
 }
